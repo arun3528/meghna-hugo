@@ -1,4 +1,4 @@
-baseURL = "https://akiraarun.com"
+baseURL = "https://akiraarun.netlify.com/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
