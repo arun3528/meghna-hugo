@@ -1,7 +1,7 @@
 ---
-title: "John Doe"
+title: "arungane"
 image: ""
-email: "email2@example.org"
+email: "arungane@gmail.com"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"

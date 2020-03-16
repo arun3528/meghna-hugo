@@ -1,7 +1,7 @@
 ---
-title: "Mark Dinn"
+title: "dd"
 image: ""
-email: "email2@example.org"
+email: "emotionalCobalt@outlook.com"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
